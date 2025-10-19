@@ -1,4 +1,4 @@
-package com.example.eestradamusicapp.ui.components
+package com.example.eestradamusicapp.components
 
 
 import androidx.compose.foundation.layout.*
