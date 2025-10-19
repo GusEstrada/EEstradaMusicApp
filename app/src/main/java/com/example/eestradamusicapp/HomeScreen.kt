@@ -1,4 +1,4 @@
-package com.example.eestradamusicapp.ui.screens
+package com.example.eestradamusicapp
 
 
 import android.util.Log
