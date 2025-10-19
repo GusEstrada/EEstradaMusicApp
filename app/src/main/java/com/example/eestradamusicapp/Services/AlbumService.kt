@@ -1,4 +1,4 @@
-package com.example.eestradamusicapp.services
+package com.example.eestradamusicapp.Services
 
 import com.example.eestradamusicapp.model.Album
 import retrofit2.http.GET
